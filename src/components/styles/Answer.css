@@ -1,0 +1,17 @@
+.answer-btn {
+  width: 35%;
+  height: 50px;
+  border-radius: 15px;
+  background-color: rgb(255, 196, 0);
+  border: none;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.correct {
+  background-color: rgb(40, 201, 0);
+}
+
+.incorrect {
+  background-color: rgb(255, 73, 73);
+}

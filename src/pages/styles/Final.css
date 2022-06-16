@@ -1,0 +1,30 @@
+.box-final {
+  width: 100%;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.corrects {
+  width: 200px;
+  height: 50px;
+  background-color: rgb(255, 196, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.again-btn {
+  width: 100px;
+  height: 40px;
+  margin-top: 20px;
+  cursor: pointer;
+  border: 2px solid rgb(255, 196, 0);
+  background: none;
+  color: rgb(255, 196, 0);
+  border-radius: 5px;
+}
